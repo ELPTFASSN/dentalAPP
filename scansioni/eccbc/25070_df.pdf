@@ -1,0 +1,9 @@
+			<p id="copyright">Copyright &copy; 2011 por Jes&uacute;s Abell&aacute;n</p>
+		</div> <!-- end #container-->
+	</div> <!-- end #background -->	
+	
+	<?php include(TEMPLATEPATH . '/includes/scripts.php'); ?>
+	<?php wp_footer(); ?>	
+	
+</body>
+</html>
